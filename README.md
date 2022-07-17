@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @prefrontal-panda
+- 🌱 I’m currently learning how to code using python, omics data analysis with python and R.
